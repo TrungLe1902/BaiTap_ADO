@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSP_ADO_Net", "QLSP_ADO_Net\QLSP_ADO_Net.csproj", "{BECE95A0-3270-4EA3-8760-20D45929A993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECE95A0-3270-4EA3-8760-20D45929A993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECE95A0-3270-4EA3-8760-20D45929A993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECE95A0-3270-4EA3-8760-20D45929A993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECE95A0-3270-4EA3-8760-20D45929A993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60CF91D2-6FE2-4C6B-BF1A-8CEB82957643}
+	EndGlobalSection
+EndGlobal
